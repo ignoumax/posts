@@ -1,9 +1,11 @@
 ---
 title: "Course List 2026: Fees, Diploma, UG, PG & Certificate Programme"
-description: pk
+description: ""
 keywords: [hello]
 updated_at: 2026-01-01
 ---
+
+##### https://www.ignouhelp.in/ignou-courses/
 
 IGNOU offers 300+ courses through Open Distance Learning (ODL) Mode and Online Mode.
 
