@@ -1,7 +1,7 @@
 ---
 title: Indira Gandhi National Open University (IGNOU) 
 description: IGNOU (Indira Gandhi National Open University) is one of the largest University in the world and top 1 in India with enrollments upto 3+ million students in 2025, It provides distance and open learning in various undergraduate, postgraduate, certificate and diploma programmes
-keywords: IGNOU, what is IGNOU, is IGNOU degree valid, Indira Gandhi National Open University 
+keywords: [IGNOU, what is IGNOU, is IGNOU degree valid, Indira Gandhi National Open University] 
 updated_at: 2025-11-27
 ---
 
